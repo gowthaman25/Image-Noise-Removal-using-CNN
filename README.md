@@ -30,6 +30,7 @@ denoised images are saved in 'data/OutImg'.
 
 The average PSNR(dB) and SSIM results are taken for the dataset.
 
-Noise Level  --- 25 
-PSNR     ------- 28.88  
-SSIM     -------  0.80
+|  Noise Level |PSNR | SSIM |
+|:-------:|:-------:|:-------:|
+| 25  |  28.88 | 0.80 |
+
