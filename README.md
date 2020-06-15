@@ -14,14 +14,14 @@ Clean patches are extracted from 'data/Train100' and saved in 'data/npy_data'.
 
 ### Train
 ```
-$ python Main1.py -- trains the given image directory
+$ python Main.py -- trains the given image directory
 ```
 
 Trained models are saved in current directory
 
 ### Test
 ```
-$ python Main1.py -- test the given image directory('data/Test/Set68') by the trained model.
+$ python Main.py -- test the given image directory('data/Test/Set68') by the trained model.
 ```
 
 denoised images are saved in 'data/OutImg'.
